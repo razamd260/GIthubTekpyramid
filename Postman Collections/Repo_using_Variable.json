@@ -22,7 +22,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{ \"name\":\"Shiny\",                               \r\n  \"description\" : \"API testing demo repo\" ,    \r\n   \"private\" :true                                \r\n   \r\n    }                             ",
+					"raw": "{ \"name\":\"Shiny\",                               \r\n  \"description\" : \"API testing demo repo\" ,    \r\n   \"private\" :true                                \r\n }                             ",
 					"options": {
 						"raw": {
 							"language": "json"
